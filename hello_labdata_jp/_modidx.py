@@ -26,4 +26,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'joaopcnogueira',
                 'version': '0.0.1'},
-  'syms': { 'hello_labdata_jp\\greetings': { 'hello_labdata_jp\\greetings.hello': 'https://joaopcnogueira.github.io/hello_labdata_jp/hello_labdata_jp\\greetings.html#hello'}}}
+  'syms': { 'hello_labdata_jp\\greetings': { 'hello_labdata_jp\\greetings.hello': 'https://joaopcnogueira.github.io/hello_labdata_jp/hello_labdata_jp\\greetings.html#hello'},
+            'hello_labdata_jp\\jokes': { 'hello_labdata_jp\\jokes.qual_time_nao_tem_mundial': 'https://joaopcnogueira.github.io/hello_labdata_jp/hello_labdata_jp\\jokes.html#qual_time_nao_tem_mundial'}}}
